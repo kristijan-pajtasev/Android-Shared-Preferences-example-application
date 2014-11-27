@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidSavedDataActivity</string>
+    <string name="default_value">0</string>
+    <string name="increment_button">Increment</string>
+    <string name="restart_button">Restart</string>
+</resources>
